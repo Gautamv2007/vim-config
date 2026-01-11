@@ -1,4 +1,4 @@
-This is a very basic init.lua config. This is the people who don't want very complicated configuration and at the same time don't want to lose any basic config. 
+This is a very basic init.lua config. This is for the people who don't want very complicated configuration and at the same time don't want to lose any basic config. 
 
 The transparent feature may not work on the latest gnome terminal. It is impossible to config it anymore. I wasted a lot of time doing it. 
 I would recommend using Alacritty or any other terminal of your choice which support transparent configuration.
